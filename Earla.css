@@ -1,0 +1,52 @@
+body{
+	background-color:gray;
+	border: double;
+}
+img{
+	background-position:left top;
+}
+
+
+p{
+    font-size: 16px;
+}
+
+#g{
+	background-color: gray;
+	border: double;
+}
+#z{
+    background-color: gray;
+    border: double;
+}
+#m{
+	background-position: right top;
+}
+#a{
+    color: lightblue;
+}
+
+#l{
+	position: left;
+}
+h2{
+    color: snow;
+}
+h3{
+    color: ivory;
+}
+
+h3.intro{
+    color: lightblue;
+}
+
+h1{
+	text-align: center;
+	color: lightblue;
+	text-align: center;
+	
+}
+
+h5{
+	text-align: center;
+}
